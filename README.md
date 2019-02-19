@@ -4,12 +4,12 @@ Version: 1.0
 
 ## Current Problem
 * Unable to see donations are well delivered to Creators.
-* Current platforms are taking some portion (about 30%) of viewers' donation as commision.
+* Current platforms are taking some portion (about 30%) of viewers' donation as commission.
   <br>(ex. twitch, youtube, etc...)
 
 ## Solution
 * Use block chain to show donations are well delivered.
-* Lower commisions, more delivered to creators.
+* Lower commissions, more delivered to creators.
 
 ## Token Economy
 ![](./img/cycle.jpg)
